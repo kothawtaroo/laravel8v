@@ -14,8 +14,8 @@
         @livewireStyles
 
         <!-- Scripts -->
-        <link rel="stylesheet" href="{{ asset('css/app.css') }}">
-        <script src="{{ asset('js/app.js') }}" defer></script>
+        <link rel="stylesheet" href="resources/css/app.css">
+        <script src="resources/js/app.js" defer></script>
     </head>
     <body class="font-sans antialiased">
         <x-jet-banner />
